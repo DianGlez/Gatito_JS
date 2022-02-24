@@ -1,0 +1,31 @@
+*{
+
+   padding: 10px;
+   margin: 5px;
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+}
+#etiquetas{
+    color: black;
+}
+
+
+.Contenedor {
+    background-color:pink;
+    height: 100vh;
+    display: flex;
+    
+}
+
+
+
+.cuadro {
+    border: 1px solid blue;
+    width: 600px;
+    height: 600px;
+
+   
+}
